@@ -19,3 +19,9 @@
 # v1.3
 * Slightly improved AI system
 * Fixed an error of bypassing 21 and getting an incorrect result
+
+# v1.4
+* Added the card symbols “A”, “J”, “Q”, “K”
+* Removed the character “The guy that let the dogs out”
+* Deleted a paragraph of the code that was unnecessary
+* Fixed an issue of not responding when the bot hits 16 
