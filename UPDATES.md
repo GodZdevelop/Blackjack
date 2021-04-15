@@ -12,3 +12,6 @@
 * Fixed an error of winning the match when you and the dealer stand but you have less points
 * Added new opponents:
   Donald Trump, Elon Musk, Grandpa
+
+# v1.2
+* Added card icons (♠️♥️♣️♦️)
