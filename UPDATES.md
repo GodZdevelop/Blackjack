@@ -25,3 +25,6 @@
 * Removed the character “The guy that let the dogs out”
 * Deleted a paragraph of the code that was unnecessary
 * Fixed an issue of not responding when the bot hits 16 
+
+# v1.5
+* Now, at the beginning of the game, both dealer and you, withdraw 2 cards instantly
