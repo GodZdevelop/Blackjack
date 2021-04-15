@@ -28,3 +28,6 @@
 
 # v1.5
 * Now, at the beginning of the game, both dealer and you, withdraw 2 cards instantly
+
+# v1.6
+* Solved a bug when withdrawing the 2 initial cards
