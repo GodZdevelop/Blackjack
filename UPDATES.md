@@ -15,3 +15,7 @@
 
 # v1.2
 * Added card icons (♠️♥️♣️♦️)
+
+# v1.3
+* Slightly improved AI system
+* Fixed an error of bypassing 21 and getting an incorrect result
