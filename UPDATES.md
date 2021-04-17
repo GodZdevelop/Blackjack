@@ -31,3 +31,7 @@
 
 # v1.6
 * Solved a bug when withdrawing the 2 initial cards
+
+# v1.7
+* Now you lose if you don’t respond “hit” or “stand”
+* Fix an error of when the dealer stands
