@@ -35,3 +35,6 @@
 # v1.7
 * Now you lose if you don’t respond “hit” or “stand”
 * Fix an error of when the dealer stands
+
+# v2
+* Simplified the code
